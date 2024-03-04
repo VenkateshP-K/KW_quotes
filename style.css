@@ -1,0 +1,30 @@
+div{
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    margin-top: 10%;
+    margin-left: 35%;
+    background-image: linear-gradient(to right, #2f088a 0%, #6e0450 100%);
+    color:white;
+    text-align: center;
+    padding: 10px;
+}
+button{
+    margin-top: 2%;
+    margin-left: 43%;
+    background-color: #2f088a;
+    color: azure;
+}
+body{
+    background-color: black;
+}
+.head {
+    height: 50px;
+    margin-top: 2%;
+    text-align: center;
+    background-color: black;
+    color:darkcyan;
+    background-image: none;
+    font-size: 50px;
+    font-family: serif;
+}
